@@ -20,6 +20,11 @@
 
 .cell {
     background-color: blue;
+}
 
-
+.symbol {
+    color: white;
+    font-size: 150px;
+    text-align: center;
+    line-height: 300px;
 }
