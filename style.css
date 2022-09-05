@@ -28,3 +28,21 @@
     text-align: center;
     line-height: 300px;
 }
+
+.banner {
+    position: absolute;
+    background-color: red;
+    width: 1200px;
+    margin-left: -140px;
+    height: 400px;
+    margin-top: 250px;
+    opacity: 75%;
+    border-radius: 35px;
+}
+
+.banner h1{
+    color: white;
+    text-align: center;
+    line-height: 400px;
+    font-size: 70px;
+}
