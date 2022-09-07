@@ -76,10 +76,9 @@ function drawBanner() {
     h1.innerText = "Congratulations! You Won!"
 
     banner.append(h1)
-
+    
     state.gameElement.append(banner)
 }
-
 
 function checkForWinner() {
     return state.winningConditions.some(function (combo) {
